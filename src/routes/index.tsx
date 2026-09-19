@@ -1,11 +1,10 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { useState, type FormEvent, type ReactNode } from "react";
+import { useState, type FormEvent } from "react";
 import {
   ArrowDown,
   ArrowUpRight,
   Award,
   BookOpen,
-  BriefcaseBusiness,
   Check,
   Code2,
   Download,
@@ -16,7 +15,6 @@ import {
   Menu,
   Phone,
   Send,
-  Sparkles,
   X,
 } from "lucide-react";
 
